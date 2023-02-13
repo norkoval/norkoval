@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a graphic designer and 3D generalist based in Poland. My main interests are branding, 3D modeling and game art. I'm also a big fan of the idea of #opensource.
+I'm a **graphic designer** and **3D generalist** based in Poland. My main interests are branding, 3D modeling and game art. I'm also a big fan of the idea of #opensource.
 
 🌱 I’m currently learning
 - Godot Engine
