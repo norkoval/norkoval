@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a **graphic designer** and **3D generalist** based in Poland. My main interests are branding, 3D modeling and game art. I'm also a big fan of the idea of #opensource.
 
-### 🌱 I’m currently learning
+#### 🌱 I’m currently learning
 - Godot Engine
 <!--
 **norkoval/norkoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
